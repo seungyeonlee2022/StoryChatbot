@@ -1,0 +1,16 @@
+#chat {
+    border: 1px solid #000;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+}
+
+#messages li {
+    padding: 5px 10px;
+    border-bottom: 1px solid #ddd;
+}
